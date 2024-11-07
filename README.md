@@ -1,3 +1,3 @@
 # app
-Teste da aplicação
+"Teste da aplicação"
 Integração Continua
