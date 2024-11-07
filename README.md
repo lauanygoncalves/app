@@ -1,2 +1,3 @@
 # app
-aplicação - integração continua
+Teste da aplicação
+Integração Continua
